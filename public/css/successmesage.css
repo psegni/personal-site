@@ -1,0 +1,30 @@
+*
+{
+
+    margin: 0;
+
+}
+
+body
+{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  background:url("/image/seg.jpg") no-repeat;
+  background-position: center;  
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+.about h1{
+    color: rgb(236, 154, 45);
+    font-size: 40px;
+    font-family: monospace;
+}
+.about button{
+    margin-top: 100px;
+    margin-left: 40%;
+    font-size: 40px;
+}
